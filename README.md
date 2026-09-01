@@ -18,3 +18,5 @@ Para la vectorización del texto se utilizaron las siguientes opciones:
 
 ## Requisitos e Instalación
 Las librerías y versiones utilizadas en el desarrollo están detalladas en `requirements.txt`.
+
+> **Nota sobre la Pre-Entrega 2:** Aunque la Pre-Entrega 2 ya se encuentra aprobada, se aplicaron las mejoras y ajustes solicitados en la devolución docente sobre las funciones de limpieza de texto. Esto asegura la consistencia completa del pipeline y el correcto funcionamiento del modelo en esta tercera entrega y en las fases posteriores del proyecto.
